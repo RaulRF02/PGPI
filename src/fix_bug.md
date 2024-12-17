@@ -1,0 +1,3 @@
+# Fixed bug
+
+Arreglada la incidencia de Jira...
